@@ -10,7 +10,7 @@ DAO inspired by [Nouns](https://nouns.wtf), created on the [Base network](https:
 ## 📜 Contract Information
 - **Network:** Base  
 - **Deployer:** [0x23B8905e597701271BD84ce40CeBf30dCd1d213A](https://basescan.org/address/0x23B8905e597701271BD84ce40CeBf30dCd1d213A)  
-- **Contract Address:** [0xSEU_CONTRATO](https://basescan.org/address/0xSEU_CONTRATO)  
+- **Contract Address:**(https://basescan.org/address/0xSEU_CONTRATO)  
 
 ---
 
