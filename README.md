@@ -7,8 +7,21 @@ DAO inspired by Nouns, created on the Base network via Nouns Builder.
 
 ## 🌐 Links
 
-[![Base](https://cryptologos.cc/logos/base-base-logo.png?v=032)](https://base.org)  
-[![Nouns](https://nouns.wtf/apple-touch-icon.png)](https://nouns.wtf)  
+<p align="center">
+  <a href="https://base.org">
+    <img src="https://cryptologos.cc/logos/base-base-logo.png?v=032" alt="Base" width="80"/>
+  </a>  
+  <br>
+  Built on <b>Base Network</b>
+</p>
+
+<p align="center">
+  <a href="https://nouns.wtf">
+    <img src="https://nouns.wtf/apple-touch-icon.png" alt="Nouns" width="80"/>
+  </a>  
+  <br>
+  Inspired by <b>Nouns DAO</b>
+</p>
 
 ---
 
