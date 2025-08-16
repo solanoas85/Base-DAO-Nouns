@@ -34,7 +34,7 @@ Um experimento de governança onchain, arte generativa e tesouraria descentraliz
 ## 📜 Contrato  
 
 - **Deployer:** `0x23B8905e597701271BD84ce40CeBf30dCd1d213A`  
-- **DAO Contract:** `0xSEU_CONTRATO`  
+- **DAO Contract:** `0x23B8905e597701271BD84ce40CeBf30dCd1d213A`  
 - **Ver no Builder:** [Nouns Builder](https://nouns.build)  
 
 ---
